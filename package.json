@@ -1,0 +1,25 @@
+{
+  "name": "feathers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isaacamehgreg/feathers.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isaacamehgreg/feathers/issues"
+  },
+  "homepage": "https://github.com/isaacamehgreg/feathers#readme",
+  "dependencies": {
+    "@feathersjs/express": "^4.5.14",
+    "@feathersjs/feathers": "^4.5.12",
+    "@feathersjs/socketio": "^4.5.14"
+  }
+}
